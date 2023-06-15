@@ -1,11 +1,16 @@
 {
   "expo": {
-    "name": "my-project",
-    "slug": "my-project",
+    "name": "coffee3000",
+    "slug": "coffee3000",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "icon": "./img/icon.png",
+    "splash": {
+        "image": "./img/splash.png",
+        "backgroundColor": "#222"
+      }
   },
-  "name": "my-project"
+  "name": "coffee3000"
 }
